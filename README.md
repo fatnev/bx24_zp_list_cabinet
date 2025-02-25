@@ -8,4 +8,4 @@
 
 Пара каталогов с месяцами для примера.
 
-![Скрин с примером](https://github.com/fatnev/bx24_zp_list_cabinet/tree/main/img/scr.png)
+![Скрин с примером](https://github.com/fatnev/bx24_zp_list_cabinet/raw/main/img/scr.png)
