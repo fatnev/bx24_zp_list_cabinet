@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/sd/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Апрель", 
+		"/sd/april/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Май", 
+		"/sd/may/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
